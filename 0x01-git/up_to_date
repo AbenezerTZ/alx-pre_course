@@ -1,0 +1,5 @@
+cd alx-pre_course
+git pull
+cd 0x01-git
+vi README.md
+updated
